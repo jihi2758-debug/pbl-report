@@ -2,7 +2,7 @@ demo link :- https://osteoai-bjnqfm4gqvusnjfibnzelg.streamlit.app/
 
 
 https://github.com/congurentshub/OSTEO_AI
-
+SAMPLE WEBSITE:- https://jihi2758-debug.github.io/pbl-report/
 
 
 

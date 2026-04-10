@@ -1,7 +1,7 @@
 demo link :- https://osteoai-bjnqfm4gqvusnjfibnzelg.streamlit.app/
 
 
-
+https://github.com/congurentshub/OSTEO_AI
 
 
 
